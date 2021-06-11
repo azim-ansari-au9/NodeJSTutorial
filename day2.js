@@ -1,3 +1,5 @@
+//remove duplicate from array
+
 var array = [1, 2, 3, 4, 3, 2, 1];
 var outputArray = [];
 var count = 0;
